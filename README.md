@@ -1,4 +1,4 @@
 # SearchingAlgorithm-2.0
-Using C++
+# Using C++
 
-This project is meant for practice purposes.
+_This project is meant for practice purposes.
