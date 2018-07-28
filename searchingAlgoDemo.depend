@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1532445843 source:c:\users\ngyen\documents\programming\searchingalgodemo\main.cpp
+	<iostream>
+	<SearchingAlgo.h>
+	<ctime>
+	<cstdlib>
+	<list>
+
+1532492012 c:\users\ngyen\documents\programming\searchingalgodemo\include\searchingalgo.h
+	<list>
+	<iostream>
+	<cmath>
+
